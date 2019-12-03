@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f948ab12-21cf-4bba-bd35-b5e5ab8fb430" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="PhpDebugGeneral" show_pre_config_in_web_page="false" />
+  <component name="PhpServers">
+    <servers>
+      <server host="apache server" id="ae89d6cb-45b7-4a74-861d-8d2d9be6ccf6" name="apache server" />
+    </servers>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="Remote PHP">
+    <include_path>
+      <path value="$PROJECT_DIR$" />
+      <path value="$PROJECT_DIR$" />
+    </include_path>
+  </component>
+  <component name="ProjectId" id="1UHBRlmElGuSEUKGLJgzXHVJxX9" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="C:/xampp/htdocs" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="PHP Web Page.localproject">
+    <configuration name="Unnamed" type="PhpBuiltInWebServerConfigurationType" factoryName="PHP Built-in Web Server" singleton="false" nameIsGenerated="true" document_root="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="localproject" type="PhpWebAppRunConfigurationType" factoryName="PHP Web Application" server_name="apache server" start_url="/localproject">
+      <method v="2">
+        <option name="FtpUpload" enabled="true">
+          <server_id>3a2e5aa4-1fd2-49eb-a274-1e0e8163d46b</server_id>
+          <server_name>apache server</server_name>
+          <group_name />
+          <path>G:\Web Development Course\Php</path>
+        </option>
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="PHP Built-in Web Server.Unnamed" />
+      <item itemvalue="PHP Web Page.localproject" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f948ab12-21cf-4bba-bd35-b5e5ab8fb430" name="Default Changelist" comment="" />
+      <created>1575003635295</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1575003635295</updated>
+      <workItem from="1575003638361" duration="289000" />
+      <workItem from="1575005444665" duration="353000" />
+      <workItem from="1575026248986" duration="9000" />
+      <workItem from="1575029748036" duration="1122000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="349" y="70" key="#CLI_Interpreters" timestamp="1575003880488">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="349" y="70" key="#CLI_Interpreters/0.0.1536.824@0.0.1536.824" timestamp="1575003880488" />
+    <state x="492" y="18" key="#PHP" timestamp="1575003892426">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="492" y="18" key="#PHP/0.0.1536.824@0.0.1536.824" timestamp="1575003892426" />
+    <state x="549" y="170" key="FileChooserDialogImpl" timestamp="1575003888450">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="170" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1575003888450" />
+    <state x="477" y="239" key="com.intellij.ide.util.TipDialog" timestamp="1575003639223">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="477" y="239" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1575003639223" />
+  </component>
+</project>
