@@ -23,6 +23,9 @@
       <?php
 $x = 7;
 var_dump($x);
+
+$floatingNumber = 3.7;
+var_dump($floatingNumber);
        ?>
     </div>
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js">
