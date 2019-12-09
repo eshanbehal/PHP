@@ -19,19 +19,13 @@
   </head>
   <body>
     <div class="container-fluid">
-      <h1>Variables: </h1>
-      <p>
-        <?php
-        $name = "Eshan";
-        $age = 22;
-        echo "My name is : " . $name . ". I am : " . $age . " years old.";
-         ?>
-      </p>
-<p>
-<?php
-define("COUNTRY", "")
- ?>
-</p>
+      <h1>Strings: </h1>
+      <?php
+$name : 'Eshan behal';
+echo "Name : " . $name . "<br />";
+$string : "Eshan behal is nice person";
+echo $string . '<br />';
+       ?>
     </div>
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js">
     </script>
