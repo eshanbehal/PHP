@@ -19,13 +19,10 @@
   </head>
   <body>
     <div class="container-fluid">
-      <h1>Strings: </h1>
+      <h1>integers and floats: </h1>
       <?php
-$name : 'Eshan behal';
-echo "Name : " . $name . "<br />";
-$string : "Eshan behal is nice person";
-echo $string . '<br />';
-$string2 : "my friend $name is a good person."
+$x = 7;
+var_dump($x);
        ?>
     </div>
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js">
