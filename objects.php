@@ -27,9 +27,13 @@ class car
 public $make = "ford";
 private $status = "off";
   //methods
-
+function turn_on(){
+  $this-> status = "on";
+}
 
 }
+myCar = new car;
+var_dump($myCar);
 
        ?>
     </div>
